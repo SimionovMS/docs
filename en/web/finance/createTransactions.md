@@ -54,14 +54,14 @@ Depending on the `type` parameter, additional parameters have to be transmitted
 Parameter | Description
 --------- | -----------
 amount_from | The amount of expenditure in hryvnias/rubles
-account_from | Order ID
+account_from | Account ID
 
 ### type — 1
 
 Parameter | Description
 --------- | -----------
 amount_to | The amount of income in hryvnias/rubles
-account_to | Order ID
+account_to | Account ID
 
 ### type—2
 
